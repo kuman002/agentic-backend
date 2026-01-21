@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-groq       # Or langchain-openai if you prefer
+langgraph
+langchain-text-splitters
+duckduckgo-search    # For Agent 2 web search
+pypdf                # For reading PDFs
+chromadb>=0.4.0      # Vector Store - updated for pre-built wheels
+sqlalchemy
+requests
